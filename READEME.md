@@ -1,3 +1,5 @@
+ Master Build Status [![Build Status](https://travis-ci.org/emilytaylor97/sem.svg?branch=master)](https://travis-ci.org/emilytaylor97/sem)
+
 [![Build Status](https://travis-ci.org/emilytaylor97/sem.svg?branch=master)](https://travis-ci.org/emilytaylor97/sem)
 
 [![LICENSE](https://img.shields.io/github/license/emilytaylor97/sem.svg?style=flat-square)](https://github.com/emilytaylor97/sem/blob/master/LICENSE)
