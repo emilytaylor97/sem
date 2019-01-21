@@ -1,1 +1,1 @@
-Hello World
+[![Build Status](https://travis-ci.org/emilytaylor97/sem.svg?branch=master)](https://travis-ci.org/emilytaylor97/sem)
